@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "studentnotecreation",
+  "private_key_id": "8e5f691fb16e99064dd40f92c340d67ce8a900ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj2EM58+9AiCE7\nBvSKnvPEnvBODejsHxrEBzUAf5mvqnYC0oDa5JIK50YIkoMYAm6hLt03hQXEQi3Z\nJUVxxPiUHIqj3/2/BnUpYrf9NEAE2Ex6Al09BEv/sB4CgmTkSYQawONL0BiWt5RQ\nJe8yLdqMODCHKBW83OSTI6WCU8N/hxufP0uzx6vbnk1mVJkPr48w235CPcoyZ0dy\nOTejslyw9SJBfu0GT1gn8KhhNJRCjjMfX/zeZS9BsZXquYllC/tYlAEanFcueUNI\n1QQ2mJpQzBFmKFyGTNXtdK+DOQGPfUVMEg55YqUZAEGKvrXJT/qHM+AoGtm5kWU3\n4enGX9AdAgMBAAECggEAMfJq5/9LZ644ByEDKkDzifRzyC+oWlbPF4Qk7a54YNtD\nl2+pdVEpjiZbrKBRU1/mbr91E4g7Lk2IYYJhraGAr9IVl4hgd7vVupSMByXHAFMZ\n2TXgS4oESwFa3KP4crlQisFTaRiablOvZFF0HiVpUsaMUJ9xJP5ntc0vls/HMJg3\nJHYmKGFeEAEujVoGCmCW6uivq2DLaZsEnEOhzRCp3QYHckGsRtf8CHf6HGaLqWuF\nZY/GU+1q/lDozCRM0ymE5wu4PzhYbnSjaM/ONi9+bstmWAerHRuVeRRVdnh/o224\nQAwbtU5H7FvbfyTd6AfrKgkyo9xl6zHD5ts6nCMyFwKBgQDmLyt6JQEehsPSbdEi\nj34ZC9BiGgsENiC6hWaEaQLaj6tDfvK30bsBy5YZE6u+0mrHnFGEpPraPy5SOsHt\nyo7Dn4LOILujg37lbai4xzAjyoPPRDOY51K3en2UCbG/PDvlMmqPyZeuvJP17lpr\nz7But+qBf2lJuGGZVYT6E1nPcwKBgQC2OGrD0itYkOOl26frYgPdxrAWGgh9mGZG\nTgTSAwXjC2xYk6xh/ufVXxooHxuysaV9ENUUAVHlr+j1oA0fYX0ylxVfZvd1B8FX\nNNj0HadOfzygyFEzbI8G21lHjn3/7nu21vKUj5eJqPTDj4WmI7S2RMwOIUo6iRtB\nNKHXw8/eLwKBgExN5K6355gT+oQeLU60nIt29BwhH/fEbbMHF8Xa/bwwFgjo41L2\nLnTY5Sfo8mzuWcFT214KRrHkcdmGatUF6a+FiBoGlc0NgRpS8LRYK2gh8PHbXPNZ\n83ypGUnisM6BDCXdQZ/qpuKg1reWzNiiX41EYHOPJfrvKUNoKw2vLn1rAoGAC8lE\nZpwef6EHiH/XsarqUxr54sQWToFgBCYhu6/EXrYrcONEYCZLuopnN7cjZICHErrW\n/W9Ea9Xf/Js4nhIBNhd9o2kWknRI9ioN6mRMoRArzL6IOgpIigoAEVfPIJG9YMsw\nb5mGFLpf8pJC88cVdkCm7jcLBRQ/Ng2AdmNM+7MCgYEA26HCfsFiqW9aHdUTacGd\nKvHZdr+wskeT/rijtjGRM1WmHUPz/ntMro2DWqHIEFGIOteyAfG0N6qRj3d+nFt6\nIzK3GohGryHHJIEuDtenYU18bxxovCf4QvpG2ABME/tuES0/Kow9aZ03VtMiHbrv\n/yqOrugsCdpLce1kz7wkzYE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "notes-63@studentnotecreation.iam.gserviceaccount.com",
+  "client_id": "111157504055288903520",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notes-63%40studentnotecreation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
